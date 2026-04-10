@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-core
+sentence-transformers
+chromadb
+mistralai==0.4.2
+pandas
